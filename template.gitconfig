@@ -1,0 +1,70 @@
+[delta "rose-pine-shared"]
+    true-color = always
+    side-by-side = true
+    zero-style = syntax
+    file-added-label = [+]
+    file-copied-label = [C]
+    file-modified-label = [M]
+    file-removed-label = [✗]
+    file-renamed-label = [→]
+    line-numbers = true
+    line-numbers-left-format = "{nm:>1}|"
+    line-numbers-right-format = "{np:>1}|"
+[delta "rose-pine"]
+    dark = true
+    file-style = "$main-foam" bold
+    file-decoration-style = "$main-muted/20" ul
+    commit-decoration-style = "$main-muted/20" ul
+    hunk-header-file-style = "$main-foam" ul bold
+    hunk-header-line-number-style = "$main-gold" bold
+    hunk-header-style = line-number syntax bold italic
+    line-numbers-left-style = "$main-iris"
+    line-numbers-minus-style = "$main-love"
+    line-numbers-plus-style = "$main-pine"
+    line-numbers-right-style = "$main-iris"
+    line-numbers-zero-style = "$main-muted"
+    minus-emph-style = syntax bold "$main-love/20"
+    minus-style = syntax "$main-love/10"
+    plus-emph-style = syntax bold "$main-pine/20"
+    plus-style = syntax "$main-pine/10"
+    whitespace-error-style = "$main-iris/10"
+[delta "rose-pine-moon"]
+	dark = true
+    file-style = "$moon-foam" bold
+    file-decoration-style = "$moon-muted/20" ul
+    commit-decoration-style = "$moon-muted/20" ul
+    hunk-header-file-style = "$moon-foam" ul bold
+    hunk-header-line-number-style = "$moon-gold" bold
+    hunk-header-style = line-number syntax bold
+    line-numbers-left-style = "$moon-iris"
+    line-numbers-minus-style = "$moon-love" bold
+    line-numbers-plus-style = "$moon-pine" bold
+    line-numbers-right-style = "$moon-iris"
+    line-numbers-zero-style = "$moon-muted"
+    minus-emph-style = syntax bold "$moon-love/20"
+    minus-style = syntax "$moon-love/10"
+    plus-emph-style = syntax bold "$moon-pine/20"
+    plus-style = syntax "$moon-pine/10"
+    whitespace-error-style = "$moon-iris/10"
+[delta "rose-pine-dawn"]
+    light = true
+    file-style = "$dawn-foam" bold
+    file-decoration-style = "$dawn-muted/20" ul
+    commit-decoration-style = "$dawn-muted/20"
+    hunk-header-file-style = "$dawn-foam" ul bold
+    hunk-header-line-number-style = "$dawn-gold" bold
+    hunk-header-style = line-number syntax bold
+    line-numbers-left-style = "$dawn-iris"
+    line-numbers-minus-style = "$dawn-love" bold
+    line-numbers-plus-style = "$dawn-pine" bold
+    line-numbers-right-style = "$dawn-iris"
+    line-numbers-zero-style = "$dawn-muted"
+    minus-emph-style = syntax bold "$dawn-love/20"
+    minus-style = syntax "$dawn-love/10"
+    plus-emph-style = syntax bold "$dawn-pine/20"
+    plus-style = syntax "$dawn-pine/10"
+    whitespace-error-style = "$dawn-iris/10"
+[delta "dark"]
+    features = rose-pine
+[delta "light"]
+    features = rose-pine-dawn

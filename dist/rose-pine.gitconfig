@@ -1,0 +1,70 @@
+[delta "rose-pine-shared"]
+    true-color = always
+    side-by-side = true
+    zero-style = syntax
+    file-added-label = [+]
+    file-copied-label = [C]
+    file-modified-label = [M]
+    file-removed-label = [✗]
+    file-renamed-label = [→]
+    line-numbers = true
+    line-numbers-left-format = "{nm:>1}|"
+    line-numbers-right-format = "{np:>1}|"
+[delta "rose-pine"]
+    dark = true
+    file-style = "#9ccfd8" bold
+    file-decoration-style = "#2a2838" ul
+    commit-decoration-style = "#2a2838" ul
+    hunk-header-file-style = "#9ccfd8" ul bold
+    hunk-header-line-number-style = "#f6c177" bold
+    hunk-header-style = line-number syntax bold italic
+    line-numbers-left-style = "#c4a7e7"
+    line-numbers-minus-style = "#eb6f92"
+    line-numbers-plus-style = "#31748f"
+    line-numbers-right-style = "#c4a7e7"
+    line-numbers-zero-style = "#6e6a86"
+    minus-emph-style = syntax bold "#43293a"
+    minus-style = syntax "#2e202f"
+    plus-emph-style = syntax bold "#1e2a39"
+    plus-style = syntax "#1b202f"
+    whitespace-error-style = "#2a2538"
+[delta "rose-pine-moon"]
+	dark = true
+    file-style = "#9ccfd8" bold
+    file-decoration-style = "#323046" ul
+    commit-decoration-style = "#323046" ul
+    hunk-header-file-style = "#9ccfd8" ul bold
+    hunk-header-line-number-style = "#f6c177" bold
+    hunk-header-style = line-number syntax bold
+    line-numbers-left-style = "#c4a7e7"
+    line-numbers-minus-style = "#eb6f92" bold
+    line-numbers-plus-style = "#3e8fb0" bold
+    line-numbers-right-style = "#c4a7e7"
+    line-numbers-zero-style = "#6e6a86"
+    minus-emph-style = syntax bold "#4b3148"
+    minus-style = syntax "#37293f"
+    plus-emph-style = syntax bold "#28374e"
+    plus-style = syntax "#262c42"
+    whitespace-error-style = "#332e48"
+[delta "rose-pine-dawn"]
+    light = true
+    file-style = "#56949f" bold
+    file-decoration-style = "#e6e1df" ul
+    commit-decoration-style = "#e6e1df"
+    hunk-header-file-style = "#56949f" ul bold
+    hunk-header-line-number-style = "#ea9d34" bold
+    hunk-header-style = line-number syntax bold
+    line-numbers-left-style = "#907aa9"
+    line-numbers-minus-style = "#b4637a" bold
+    line-numbers-plus-style = "#286983" bold
+    line-numbers-right-style = "#907aa9"
+    line-numbers-zero-style = "#9893a5"
+    minus-emph-style = syntax bold "#ecd7d6"
+    minus-style = syntax "#f3e6e2"
+    plus-emph-style = syntax bold "#d0d8d8"
+    plus-style = syntax "#e5e6e2"
+    whitespace-error-style = "#efe8e6"
+[delta "dark"]
+    features = rose-pine
+[delta "light"]
+    features = rose-pine-dawn
