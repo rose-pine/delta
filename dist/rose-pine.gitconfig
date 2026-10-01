@@ -1,0 +1,58 @@
+[delta "rose-pine"]
+	dark = true
+	file-style = "#9ccfd8" bold ul
+	file-decoration-style = "#2a2838"
+	commit-decoration-style = "#2a2838"
+	hunk-header-decoration-style = "#e0def4" box
+	hunk-header-line-number-style = "#6e6a86"
+	hunk-header-style = line-number syntax bold
+	line-numbers-left-style = "#6e6a86"
+	line-numbers-minus-style = "#eb6f92"
+	line-numbers-plus-style = "#31748f"
+	line-numbers-right-style = "#c4a7e7"
+	line-numbers-zero-style = "#6e6a86"
+	minus-emph-style = syntax bold "#82435b"
+	minus-style = syntax "#2e202f"
+	plus-emph-style = syntax bold "#25465a"
+	plus-style = syntax "#1b202f"
+	whitespace-error-style = "#2a2538"
+[delta "rose-pine-moon"]
+	dark = true
+	file-style = "#9ccfd8" bold ul
+	file-decoration-style = "#323046"
+	commit-decoration-style = "#323046"
+	hunk-header-decoration-style = "#e0def4" box
+	hunk-header-line-number-style = "#6e6a86"
+	hunk-header-style = line-number syntax bold
+	line-numbers-left-style = "#6e6a86"
+	line-numbers-minus-style = "#eb6f92" bold
+	line-numbers-plus-style = "#3e8fb0" bold
+	line-numbers-right-style = "#c4a7e7"
+	line-numbers-zero-style = "#6e6a86"
+	minus-emph-style = syntax bold "#874864"
+	minus-style = syntax "#37293f"
+	plus-emph-style = syntax bold "#315873"
+	plus-style = syntax "#262c42"
+	whitespace-error-style = "#332e48"
+[delta "rose-pine-dawn"]
+	light = true
+	file-style = "#56949f" bold ul
+	file-decoration-style = "#e6e1df"
+	commit-decoration-style = "#e6e1df"
+	hunk-header-decoration-style = "#575279" box
+	hunk-header-line-number-style = "#9893a5"
+	hunk-header-style = line-number syntax bold
+	line-numbers-left-style = "#9893a5"
+	line-numbers-minus-style = "#b4637a" bold
+	line-numbers-plus-style = "#286983" bold
+	line-numbers-right-style = "#907aa9"
+	line-numbers-zero-style = "#9893a5"
+	minus-emph-style = syntax bold "#e5c9cb"
+	minus-style = syntax "#f3e6e2"
+	plus-emph-style = syntax bold "#bbcacd"
+	plus-style = syntax "#e5e6e2"
+	whitespace-error-style = "#efe8e6"
+[delta "dark"]
+	features = rose-pine
+[delta "light"]
+	features = rose-pine-dawn
