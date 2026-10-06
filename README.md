@@ -26,15 +26,15 @@
 
 ### Rosé Pine
 
-<img width="256" alt="Rosé Pine with delta" src="https://github.com/user-attachments/assets/3d9df6a3-0ee3-43f2-b934-83cf8f2806c2" />
+<img width="1454" height="907" alt="Rosé Pine with delta" src="https://github.com/user-attachments/assets/c22ed2de-9bae-412d-a1a5-0c2af8eaeed9" />
 
 ### Rosé Pine Moon
 
-<img width="256" alt="Rosé Pine Moon with delta" src="https://github.com/user-attachments/assets/0acf279b-492c-4d75-acba-9de1d6cc8fcb" />
+<img width="1454" height="907" alt="Rosé Pine Moon with delta" src="https://github.com/user-attachments/assets/e089b6f7-e5c0-4802-adb1-3907dac37e25" />
 
 ### Rosé Pine Dawn
 
-<img width="256" alt="Rosé Pine Dawn with delta" src="https://github.com/user-attachments/assets/fb1b1d16-55e8-45db-b388-7c25250b8022" />
+<img width="1454" height="907" alt="Rosé Pine Dawn with delta" src="https://github.com/user-attachments/assets/0b331cf2-fce2-4aa1-8f04-d6e9d28c7043" />
 
 ## Thanks to
 
